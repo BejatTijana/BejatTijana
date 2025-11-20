@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/2c/7c/02/2c7c02dd647729f3a926b63f7b77f5e9.gif">
 
-- 📫 How to reach me **tijana.bejat@gmail.com**  
+- 📫 How to reach me **bejatt.2004@gmail.com**  
 
 - ⚡ About me **  
 I am a 2nd-year student of Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad.  
