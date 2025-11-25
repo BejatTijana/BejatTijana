@@ -7,7 +7,6 @@
 
 - ⚡ About me **  
 I am a 2nd-year student of Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad.  
-Hardworking, motivated and always aiming to learn more — especially in software development, data-related fields and modern web technologies.  
 **
 
 <h3 align="left">Connect with me:</h3>
