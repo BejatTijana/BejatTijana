@@ -6,7 +6,7 @@
 - 📫 How to reach me **bejatt.2004@gmail.com**  
 
 - ⚡ About me **  
-I am a 2nd-year student of Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad.  
+I am a 3rd-year student of Applied Software Engineering at the Faculty of Technical Sciences in Novi Sad.  
 **
 
 <h3 align="left">Connect with me:</h3>
