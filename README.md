@@ -35,14 +35,4 @@ I am a 3rd-year student of Applied Software Engineering at the Faculty of Techni
     </a>
 </p>
 
-<p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tijanabejat&show_icons=true&locale=en&layout=compact" alt="tijanabejat" />
-</p>
 
-<p>&nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tijanabejat&show_icons=true&locale=en" alt="tijanabejat" />
-</p>
-
-<p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tijanabejat&" alt="tijanabejat" />
-</p>
