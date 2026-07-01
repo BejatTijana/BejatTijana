@@ -132,6 +132,15 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=JustDanceCMS&theme=tokyonight&hide_border=true" />
   </a>
 </p>
+<p align="center">
+  <a href="https://github.com/BejatTijana/VP_Projekat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=VP_Projekat&theme=tokyonight&hide_border=true" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/BejatTijana/PRM_Projekat">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=PRM_Projekat&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
 
 ---
 
