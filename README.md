@@ -206,6 +206,18 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏨 <a href="https://github.com/BejatTijana/BookingSystem">BookingSystem</a></h3>
+      <p>ASP.NET MVC web application for accommodation booking with Admin/Host/Guest roles, reservation management, reviews, and accommodation search.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Razor-0C54C2?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top"></td>
+  </tr>
 </table>
 
 ---
