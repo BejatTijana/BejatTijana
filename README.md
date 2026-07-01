@@ -69,6 +69,8 @@
 ![WPF](https://img.shields.io/badge/WPF-0C54C2?style=for-the-badge&logo=windows&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP%2FIP-FF6B35?style=for-the-badge&logo=cisco&logoColor=white)
 ![Modbus](https://img.shields.io/badge/Modbus_RTU%2FTCP-E84142?style=for-the-badge&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frontend & Mobile**
@@ -78,6 +80,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=for-the-badge&logo=xaml&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 **Cloud & DevOps**
@@ -85,6 +88,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Intel Quartus Prime](https://img.shields.io/badge/Intel_Quartus_Prime-0071C5?style=for-the-badge&logo=intel&logoColor=white)
 
@@ -177,6 +181,28 @@
       <p>
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
         <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛍️ <a href="https://github.com/BejatTijana/ers_T01_tim_16">ERS — Sales Management System</a></h3>
+      <p>C# application for managing perfume and plant sales with Clean Architecture (Domain, Application, Services, Presentation layers), authentication, catalog, and fiscal receipt generation. Built as a team project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Clean_Architecture-7AA2F7?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/BejatTijana/odp_C1S_tim_18">ODP — Full-Stack Web App</a></h3>
+      <p>Full-stack TypeScript application with React 19 + Vite + TailwindCSS frontend, Node.js + Express backend, MySQL 8 with Master/Slave replication via Docker, and JWT role-based authentication. Built as a team project.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
       </p>
     </td>
   </tr>
