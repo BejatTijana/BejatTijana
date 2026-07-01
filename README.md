@@ -114,33 +114,69 @@
 
 ## 📌 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/BejatTijana/HCI_Network_service">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=HCI_Network_service&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/BejatTijana/AUS_G4_N_PR61_2023">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=AUS_G4_N_PR61_2023&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/BejatTijana/vite-react-calculator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=vite-react-calculator&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/BejatTijana/JustDanceCMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=JustDanceCMS&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/BejatTijana/VP_Projekat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=VP_Projekat&theme=tokyonight&hide_border=true" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/BejatTijana/PRM_Projekat">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=BejatTijana&repo=PRM_Projekat&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔋 <a href="https://github.com/BejatTijana/HCI_Network_service">HCI_Network_service</a></h3>
+      <p>WPF MVVM desktop app for real-time monitoring of solar panels & wind turbines via TCP. Emulates a mobile interface (390×844 px portrait mode).</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-0C54C2?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM-7AA2F7?style=flat-square" />
+        <img src="https://img.shields.io/badge/TCP%2FIP-FF6B35?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/BejatTijana/AUS_G4_N_PR61_2023">AUS_G4_N_PR61_2023</a></h3>
+      <p>Modbus RTU/TCP SCADA simulation with a WPF MVVM interface. Implements industrial communication protocols for process automation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-0C54C2?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/Modbus-E84142?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧮 <a href="https://github.com/BejatTijana/vite-react-calculator">vite-react-calculator</a></h3>
+      <p>Simple calculator built with React + TypeScript. Live deployment on Vercel.</p>
+      <p>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/BejatTijana/JustDanceCMS">JustDanceCMS</a></h3>
+      <p>Role-based WPF CMS for managing Just Dance characters. Features admin/user access levels and full CRUD operations.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-0C54C2?style=flat-square&logo=windows&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVVM-7AA2F7?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌤️ <a href="https://github.com/BejatTijana/VP_Projekat">VP_Projekat</a></h3>
+      <p>Distributed client-server weather analytics system with CSV parsing, session management and real-time data processing.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/TCP%2FIP-FF6B35?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📱 <a href="https://github.com/BejatTijana/PRM_Projekat">PRM_Projekat</a></h3>
+      <p>Client-server application built in C# with a clean separation between client and server components.</p>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
